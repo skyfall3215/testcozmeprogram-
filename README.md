@@ -2,7 +2,7 @@
 test çözme programı  
 
 
-Merhabalar ben TuYoNn bu yaptığım test çözme programı için baya uğraştım. 
+Merhabalar ben skyfall bu yaptığım test çözme programı için baya uğraştım. 
 
 
 

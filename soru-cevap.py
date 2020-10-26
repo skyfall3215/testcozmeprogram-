@@ -1,3 +1,4 @@
+import time
 print("soru cevap programına hoş geldiniz")
 
 x = str(input("hoş geldiniz başlatmak için 1 yazın: "))
@@ -197,4 +198,5 @@ if çık == "q" or çık == "Q":
 
 else:
     print("q tuşuna basın dedim ama olsun.")
+    time.sleep(3)
     exit()
